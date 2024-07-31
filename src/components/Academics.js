@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from './Navigation';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 
 const curriculumData = [
   {

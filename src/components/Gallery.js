@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from './Navigation';
-import { Container, Row, Col, Image, Button } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 
 const galleryData = [
   { src: '/assets/sports_day.jpg', alt: 'Annual Sports Day', caption: 'Students participating in various sports events.' },

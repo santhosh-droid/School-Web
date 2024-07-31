@@ -1,6 +1,5 @@
 import React from 'react';
 import Navigation from './Navigation';
-import ContactUs from './Contactus';
 import { Container } from 'react-bootstrap';
 
 function Admissions() {
